@@ -1,1 +1,1 @@
-# Implement Sudoku Solver Visualizer using Pygame
+Implement Sudoku Solver Visualizer using Pygame
